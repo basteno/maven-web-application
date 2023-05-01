@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>iSpade-proj</finalName>
+		<finalName>iSpade</finalName>
 		
 		<plugins>
 			<plugin>
